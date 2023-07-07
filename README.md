@@ -4,7 +4,7 @@
   </a>
 </section>
 
-<h1 align="center">JuejinHelper-稀土掘金助手 23.07.03</h1>
+<h1 align="center">JuejinHelper-稀土掘金助手 23.07.07</h1>
 
 <p align="center">签到、抽 奖、沾喜气、消除Bug、海底掘金游戏、自动化工作流。</p>
 
